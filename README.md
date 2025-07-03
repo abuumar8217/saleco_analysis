@@ -1,6 +1,6 @@
 # 📊 SaleCo Database Analysis with SQLite & Python
 
-This project analyzes the fictional `SaleCo.db` database using SQL queries executed within a Python environment (Google Colab or Jupyter Notebook). The database includes information about customers, invoices, vendors, products, and line-level transactions — simulating a typical sales and inventory system.
+This project analyzes `SaleCo.db` database using SQL queries executed within a Python environment (Google Colab or Jupyter Notebook). The database includes information about customers, invoices, vendors, products, and line-level transactions —  sales and inventory system.
 
 ---
 
